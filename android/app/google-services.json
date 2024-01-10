@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501602137585",
+    "project_id": "fir-crew-f7c5c",
+    "storage_bucket": "fir-crew-f7c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501602137585:android:d5fb1e9460c0fed4004050",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApLnGkeXkErMsw7LMphu2n8mt-qQR2oJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
